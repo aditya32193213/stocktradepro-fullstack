@@ -47,7 +47,7 @@ This is the **parent repository** for StockTradePro.
 ---
 
 ## 🎥 Demo Video
-👉 **[https://stocktradepro-backend.onrender.com/api-docs](https://stocktradepro-backend.onrender.com/api-docs)**
+👉 **[https://drive.google.com/file/d/1dp0UI6vS5NAvLS0D4DkQ2Sd_xJomQXfh/view?usp=sharing](https://drive.google.com/file/d/1dp0UI6vS5NAvLS0D4DkQ2Sd_xJomQXfh/view?usp=sharing)**
 
 
 ## 🎯 Core Features
